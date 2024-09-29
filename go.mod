@@ -1,4 +1,4 @@
-module github.com/richzw/appstore
+module github.com/wao3/appstore
 
 go 1.18
 
